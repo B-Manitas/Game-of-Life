@@ -1,0 +1,4 @@
+ctypes
+itertools
+numpy
+PyQt5
